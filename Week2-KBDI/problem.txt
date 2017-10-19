@@ -1,0 +1,5 @@
+bit set / dynamic programing
+traveling sellsman problem
+pedo polynomial time
+2^n*n method
+determine first few rows
